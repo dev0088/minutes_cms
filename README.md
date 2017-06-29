@@ -1,11 +1,11 @@
 # minutes_cms
 Django CMS web application
 
-#Tutorial
+# Tutorial
 
 http://docs.django-cms.org/en/latest/introduction/index.html
 
-#Quick Start
+# Quick Start
 
 You can use the django CMS installer:
 
